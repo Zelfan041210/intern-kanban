@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# IntelliJ / IDE
+.idea/
+*.iml
+
+# Java / Maven
+target/
+*.log
+
+# Node / Vue
+node_modules/
+dist/
