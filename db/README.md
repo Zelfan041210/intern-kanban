@@ -1,4 +1,4 @@
-# Database Setup (intern-kanban)
+# Database Setup (intern_kanban)
 
 本目录包含项目数据库的初始化脚本（MySQL 8.4.8），按照脚本顺序即可完成：
 - 建库
