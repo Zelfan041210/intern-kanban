@@ -1,9 +1,8 @@
 # intern_kanban
 
 
-一个用于实习自测的轻量**kanban**看板项目： 覆盖**MySQL /JDBC(MyBatis) / Spring boot
- /Vue **的最小实现。  
-目标：用尽量简单的业务，验证自己是否掌握了相关技术的栈的业务实现流程与基本工程化（脚本、文档、版本控制等） 。
+一个用于实习自测的轻量**kanban**看板项目： 覆盖 **MySQL /JDBC(MyBatis) / Spring boot / Vue**的最小实现。  
+目标：用尽量简单的业务，验证自己是否掌握了相关技术的栈的业务实现流程与基本工程化（脚本、文档、版本控制）
   
 ## Tech Stack
 - Backend： Java 8, Spring Boot 2.7.6, MyBatis, Actuator
